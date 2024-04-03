@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Topos</string>
+    <string name="location">Location</string>
+    <string name="follow">Follow</string>
+    <string name="follow_enabled">Follow enabled</string>
+    <string name="follow_disabled">Follow disabled</string>
+    <string name="gpx">GPX</string>
+    <string name="discard_current_gpx">The current GPX will be discarded.</string>
+    <string name="gpx_details">GPX details</string>
+    <string name="gpx_zoom">Zoom to GPX</string>
+
+    <string name="location_details">Location detail</string>
+    <string name="label_latitude">Latitude:</string>
+    <string name="label_longitude">Longitude:</string>
+    <string name="label_elevation">Elevation:</string>
+    <string name="close">Close</string>
+    <string name="unknown_symbol">-</string>
+
+    <string name="elevation">Elevation</string>
+    <string name="unit_m">m</string>
+    <string name="unit_km">km</string>
+    <string name="poi">POI</string>
+
+    <string name="layers">Layers</string>
+    <string name="open_topo_map">OpenTopoMap</string>
+    <string name="open_street_map">OpenSteetMap</string>
+    <string name="lonvia_hiking">Lonvia Hiking</string>
+    <string name="lonvia_cycling">Lonvia Cycling</string>
+    <string name="base_map">Base Map</string>
+    <string name="overlay">Overlay</string>
+    <string name="none">None</string>
+    <string name="lonvia_copy">Wanderwege &#169; Lonvia</string>
+
+    <string name="fullscreen_on_map_tap">Fullscreen on tap</string>
+    <string name="keep_screen_on">Keep screen on</string>
+
+    <string name="nearby">Nearby</string>
+
+    <string name="cache_settings">Cache settings</string>
+    <string name="tile_cache">Tile cache</string>
+    <string name="max_cache_size">Max. cache size (MB)</string>
+    <string name="reset">Reset</string>
+    <string name="storage_root">External storage root: %1$s</string>
+
+    <string name="invalid_gpx">Invalid GPX</string>
+    <string name="location_unknown">Location unknown</string>
+
+    <string name="wiki_base_url">https://en.wikipedia.org/</string>
+
+</resources>
